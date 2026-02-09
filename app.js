@@ -1,4 +1,4 @@
-const API_KEY = "12345";
+const API_KEY = "";
 
 async function consultarGemini(prompt) {
   const res = await fetch(
