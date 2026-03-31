@@ -15,4 +15,4 @@ async function consultarGemini(prompt) {
   );
 }
 
-consultarGemini("Cuando fue lanzada la aplicación Pinterest?");
+consultarGemini("Cuando fue lanzada la aplicación Photoshop?");
