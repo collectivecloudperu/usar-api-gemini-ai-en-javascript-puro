@@ -15,4 +15,4 @@ async function consultarGemini(prompt) {
   );
 }
 
-consultarGemini("Donde está Egipto?");
+consultarGemini("Cuando fue lanzada la aplicación TikTok?");
