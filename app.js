@@ -15,4 +15,4 @@ async function consultarGemini(prompt) {
   );
 }
 
-consultarGemini("Cuando fue lanzada la aplicación Facebook?");
+consultarGemini("Cuando fue lanzada la aplicación Gemini?");
